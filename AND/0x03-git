@@ -1,0 +1,15 @@
+cd alx-pre_course (enter)
+
+mkdir 0x01-git (enter)
+
+cd 0x01-git (enter)
+
+echo “my second commit”>README.md (enter)
+
+cd .. (enter)
+
+git add . (enter)
+
+git commit -m 'My second commit' (enter)
+
+git push origin main (enter)
